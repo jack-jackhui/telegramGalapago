@@ -16,7 +16,7 @@ Welcome to the Galapago Telegram Bot project. This bot allows users to access th
 
 ## About
 
-Project Galapago is designed to offer a comprehensive solution for seamless web app integration within Telegram. For more details about Project Galapago, please refer to the [official documentation](https://docs.galapago.app).
+Project Galapago is designed to offer a comprehensive digital asset liquidity solution for seamless web app integration within Telegram. For more details about Project Galapago, please refer to the [official documentation](https://docs.galapago.app).
 
 ## Features
 
@@ -37,7 +37,7 @@ Project Galapago is designed to offer a comprehensive solution for seamless web 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/galapago-telegram-bot.git
+    git clone https://github.com/jack-jackhui/galapago-telegram-bot.git
     cd galapago-telegram-bot
     ```
 
